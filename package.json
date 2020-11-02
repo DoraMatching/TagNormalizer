@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "tranphuquy19@gmail.com",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "@fast-csv/parse": "^4.3.3"
+    "@fast-csv/parse": "^4.3.3",
+    "lodash": "^4.17.20"
   }
 }
