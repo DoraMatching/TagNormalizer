@@ -1,0 +1,10 @@
+{
+  "name": "TagNormalizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tranphuquy19@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.3"
+  }
+}
