@@ -28,7 +28,7 @@ const rules = {
     'c++': ['c++', 'cpp', 'gcc'],
     'java': ['spring', 'swing', 'thymeleaf', 'jdbc'],
     'micro-services': ['rabbitmq', 'message-broker', 'microservice'],
-    'python': ['python', 'pandas', 'data-preprocessing', 'numpy', 'keras', 'tensorflow'],
+    'python': ['python', 'pandas', 'data-preprocessing', 'numpy', 'keras', 'tensorflow', 'django'],
     'angular-js': ['angular'],
     'vue-js': ['vue', 'vue-js'],
     'dot-net': ['.net', 'c#', 'vba'],
