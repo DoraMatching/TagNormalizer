@@ -1,7 +1,7 @@
 const rules = {
     'git': ['git', 'merge', 'github', 'gitlab'],
     'docker': ['docker', 'container'],
-    'javascript': ['javscript', 'nodejs', 'node.js', 'webpack', '.js', 'ckeditor', 'typeorm', 'ts', 'typescript', 'mocha', 'ionic', 'json', 'yeoman', 'gruntjs', 'gulp', 'es7', 'es8', 'javascript', 'js', 'webpack', 'frontend', 'web-developer', 'frontend', 'callback', 'jquery', 'html/css', 'lodash', 'underscore', 'eslint', 'web'],
+    'javascript': ['javscript', 'nodejs', 'node.js', 'webpack', '.js', 'ckeditor', 'typeorm', 'ts', 'typescript', 'mocha', 'ionic', 'json', 'yeoman', 'gruntjs', 'gulp', 'es7', 'es8', 'javascript', 'js', 'webpack', 'frontend', 'web-developer', 'frontend', 'callback', 'jquery', 'html/css', 'lodash', 'underscore', 'eslint', 'web', 'meteor', 'electron'],
     'security': ['vulneribility', 'firewall', 'security', 'sercurity', 'cqrs', 'csrf', 'malware', 'bao-mat'],
     'database': ['redis', 'sql', 'postgres', 'mysql', 'sqlserver', 'neo4j'],
     'algorithm': ['algorithm'],
